@@ -22,7 +22,7 @@ public class Activity2 extends AppCompatActivity {
         setContentView(R.layout.activity_2);
         bb=findViewById(R.id.button8);
 
-        b8=findViewById(R.id.button6);
+        b8=findViewById(R.id.button);
         b8.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

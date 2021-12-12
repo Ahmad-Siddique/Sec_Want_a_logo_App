@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Project_SEC">
-        <activity android:name=".DesignSuggestion2"></activity>
+        <activity android:name=".DesignSuggestion2" />
         <activity android:name=".DesignSuggestion1" />
         <activity android:name=".AutoLogo3Activity" />
         <activity android:name=".AutoLogo2Activity" />
