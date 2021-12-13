@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26465391044",
+    "project_id": "want-a-logo",
+    "storage_bucket": "want-a-logo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26465391044:android:61ec7da9142fbdda575491",
+        "android_client_info": {
+          "package_name": "com.example.project_sec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26465391044-9k38vrdk3ou9if8kvn4m9nmvtia8t6fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7rnxBrmsg4Oz_r_McIB-5L61TgIUkn5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26465391044-9k38vrdk3ou9if8kvn4m9nmvtia8t6fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
